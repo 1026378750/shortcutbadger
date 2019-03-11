@@ -22,7 +22,7 @@ and:
 
 ```gradle
 dependencies {
-    implementation 'com.github.zxintg:floataction:{latest version}'
+    implementation 'com.github.zxintg:shortcutbadger:{latest version}'
 }
 ```
 
